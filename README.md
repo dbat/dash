@@ -2,7 +2,8 @@
 
 
  Synopsys:
-   Get position of binary data in files (and replace with other data)
+ 
+    Get position of binary data in files (and replace with other data)
 
  Usage:
  
